@@ -1,7 +1,7 @@
 import React from 'react';
 import { assets } from '../assets/assets';
 import { CalendarIcon, ClockIcon } from 'lucide-react';
-import bgImg from '../assets/backgroundImage.png';
+import bgImg from '../assets/backgroundImage.jpeg';
 import {useNavigate} from 'react-router-dom'
 import { ArrowRight } from 'lucide-react';
 
